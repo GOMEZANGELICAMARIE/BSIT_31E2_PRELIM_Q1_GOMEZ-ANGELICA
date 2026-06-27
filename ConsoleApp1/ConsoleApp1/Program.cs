@@ -52,7 +52,8 @@ List<Vehicle> vehicles =
 [
     (Vehicle)car!,
     (Vehicle)plane!,
-    (Vehicle)boat!
+    (Vehicle)boat!,
+
 ];
 
 Assert(vehicles.Count == 3,
